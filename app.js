@@ -13,7 +13,7 @@ function valentinesMessage(e) {
     message.value = '2. Your an amazing planner'
     break;
   case 2:
-    message.value = '3. You alwayssee everything through'
+    message.value = '3. You always see everything through'
     break;
   case 3:
     message.value = '4. Your crazy good at coming up with gifts'
