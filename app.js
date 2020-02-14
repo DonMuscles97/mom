@@ -259,7 +259,7 @@ function valentinesMessage(e) {
     message.value = `83. Stands up for beliefs`
     break;
   case 85:
-    message.value = `84. Good diver`
+    message.value = `84. You always make it work`
     break;
   case 86:
     message.value = `85. Pretty Artistic`
