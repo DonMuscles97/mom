@@ -295,7 +295,7 @@ function valentinesMessage(e) {
     message.value = `95. Can carry the team`
     break;
   case 97:
-    message.value = `96. WINNDER`
+    message.value = `96. YOUR A WINNER`
     break;
   case 98:
     message.value = `97. sacrifices for me`
